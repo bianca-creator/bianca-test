@@ -10,7 +10,7 @@ print(f"Nice to meet you,  {name}!")
 # Perform a basic calculation
 try:
     num1 = float(input("Enter the first number: "))
-    num2 = float(input("Enter the second number: "))
+    num2 = float(input("Ente r the second number: "))
     sum_result = num1 + num2
     print(f"The sum of {num1} and {num2} is {sum_result}.")
 except ValueError:
