@@ -5,7 +5,7 @@ print("Hello! Welcome to the simple Python script.")
 
 # Get user input
 name = input("What's your name? ")
-print(f"Nice to meet you, {name}!")
+print(f"Nice to meet you,  {name}!")
 
 # Perform a basic calculation
 try:
